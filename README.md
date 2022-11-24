@@ -1,1 +1,1 @@
-# Trident-
+# Trident
